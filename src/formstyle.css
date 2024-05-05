@@ -1,0 +1,50 @@
+
+.PaymentForm {
+    margin-top: 50px;
+    max-width: 400px;
+    margin-top: 90px;
+    margin-left: auto ;
+    margin-right: auto ;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .PaymentForm h2 {
+    margin-top: 0;
+  }
+  
+  .PaymentForm form {
+    margin-top: 20px;
+  }
+  
+  .PaymentForm input {
+    display: block;
+    width: 90%;
+    margin-bottom: 10px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .PaymentForm button {
+    display: block;
+    margin-top: 20px;
+    width: 20%;
+    padding: 10px 20px;
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .PaymentForm button:hover {
+    background-color: #000000;
+  }
+  
+  .PaymentForm p {
+    margin: 5px 0;
+  }
+  
